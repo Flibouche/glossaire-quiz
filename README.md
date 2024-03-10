@@ -17,10 +17,11 @@
 - Laragon et XAMPP.
 
 2.  Qu’est-ce qu’un algorithme ?
-C'est un ensemble d'instructions et d'opérations pour résoudre un problème ou accomplir une tâche. Un programme c'est l'ensemble des instructions qui représentent un algorithme.
+- C'est un ensemble d'instructions et d'opérations pour résoudre un problème ou accomplir une tâche. Un programme c'est l'ensemble des instructions qui représentent un algorithme.
 
 3.  Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
-Une variable est un élément qui associe un nom (identifiant) à une valeur. Elle peut avoir des natures différentes telles que : nombres (int, float), texte (string), booléen (bool), tableau (array), objet (Object), NULL (NULL) ou ressource (resource). Elle est précédée par le préfixe "$".
+- Une variable est un élément qui associe un nom (identifiant) à une valeur. Elle peut avoir des natures différentes telles que : nombres (int, float), texte (string), booléen (bool), tableau (array), objet (Object), NULL (NULL) ou ressource (resource). Elle est précédée par le préfixe "$".
+
 
 5.  Qu’est-ce que la portée d’une variable ?
 
