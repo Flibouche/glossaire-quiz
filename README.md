@@ -51,28 +51,38 @@
 🔵 9.  Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
 
 🔴 10. Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
+- La fonction est : "strlen(string $string): int", elle retourne la taille de la chaîne string en int.
 
 🔵 11. Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un exemple d’utilisation en PHP
 
 🔴 12. Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
+- Un cookie appelé aussi témoin de connexion ou témoin, est une petite quantité de données échangées entre un serveur HTTP et un client HTTP, et qui permet de créer une session avec état lors de la visite d'un site Web. 
 
 🔵 13. Quelle est la différence entre les instructions « require » et « include » en PHP
+- La différence est que " require " provoque une erreur bloquante (fatal error) (E_COMPILE_ERROR) et arrêtera le script, tandis que " include " provoque un avertissement (warning) (E_WARNING) mais le script continue de fonctionner.
 
 🔴 14. Comment effectuer une redirection en PHP ?
 
 🔵 15. Définir la partie « front-end » et « back-end » d’une application
+- La partie " front-end " (côté client) d'une application fait référence à ce que voient les utilisatuers : texte, images, boutons... et avec lesquels les utilisateurs peuvent intéragir (menus de navigation...), on utilise le HTML, le CSS ou encore le JavaScript pour contrôler la structure, le visuel ou encore le responsive d'une page internet.
+- La partie " back-end " (côté serveur) d'une application fait référence aux fonctionnalités générales qu'elle comporte. Elle traite les demandes dues aux interactions des utilisateurs (remplir un champ de texte avec des données personnelles ...).
 
 🔴 16. Définir le contrôle de version ? Qu’est-ce que Git ?
 
 🔵 17. Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
+- C'est un Système de Gestion de Contenu (Content Management System), cela permet de créer, modifier facilement un site internet (blog, site de vente en ligne...).
+  - Il existe par exemple : WordPress, TYPO3, Drupal, PrestaShop...
 
 
 ## Front-end 🌟
 🔴 18. Définir HTML
+- Le HyperText Markup Language (langage de balises pour l'hypertexte) est le langage de balisage conçu pour représenter une page internet et sa structure.
 
 🔵 19. Définir CSS
+- Les Cascading Style Sheets (feuilles de style en cascade) forment un langage qui décrit la présentation des documents HTML et XML, elles permettent de donner du visuel et de la personnalité à une page internet afin de la rendre attractive. Le CSS est également utilisé afin de rendre une page web responsive.
 
 🔴 20. Définir Javascript
+- Le JavaScript est un langage de programmation " orienté objet " de scripts principalement employé dans les pages web interactives.
 
 🔵 21. Définir JSON. Dans quel contexte ce format est-il utilisé ? 
 
