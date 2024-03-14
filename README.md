@@ -23,14 +23,30 @@
 - Une variable est un élément qui associe un nom (identifiant) à une valeur. Elle peut avoir des natures différentes telles que : nombres (int, float), texte (string), booléen (bool), tableau (array), objet (Object), NULL (NULL) ou ressource (resource). Elle est précédée par le préfixe "$".
 
 4.  Qu’est-ce que la portée d’une variable ?
+- La portée d'une variable détermine l'endroit où la variable va être accessible et utilisable :
+  - La portée de la variable est globale lorsqu'elle est définie en dehors d'une fonction et est donc accessible dans l'ensemble du script : variable globale,
+  - La portée de la variable est locale lorsqu'elle est définie à l'intérieur d'une fonction, elle est donc limitée à celle-ci : variable locale.
 
 5.  Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
+- Une constante est une variable comportant une valeur définie qui ne peux être modifiée.
 
 6.  Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation 
 
 7.  Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
+- String : chaîne de caractère : $chaine = " Elan Formation ";
+- Integer(int) : entier : un nombre sans virgule : $entier : 100; 
+- Float : décimal : un nombre avec virgule (les virgules sont toujours représentées par des ".") : $decimal : 15.50;
+- Boolean(bool) : booléen : utilisé pour exprimer une valeur de vérité : "true" ou "false" : $boolean = true / $boolean = false;
+- Array : tableau : utilisé pour réaliser des listes, collections qui associent une (1) clé a une (1) valeur, il prend un nombre illimité de paramètres, chacun séparé par une virgule : $tableau = ["Kevin" => "29", "Léa" => "25", "Ewan" => "24"];
+- Object : objet : 
+- NULL : nul : une variable qui n'a pas de valeur assignée : $vide = NULL;
+- Resource : ressource : variable particulière qui contient une référence vers uen ressource externe au PHP
 
 8.  Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
+- Il existe 3 types de tableaux différents en PHP :
+  - Les tableaux numérotés/indexés (les clefs vont être des nombres),
+  - Les tableaux associatifs (nous définissons la valeur que l'on souhaite poru chaque clef),
+  - Les tableaux multidimensionnels (tableaux qui stockent d'autres tableaux en valeur). 
 
 9.  Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
 
