@@ -117,8 +117,10 @@
 - La classe "Array" fournit les méthodes pour traiter les tableaux et la méthode "push()" permet d'ajouter un élément à la fin d'un tableau.
 
 🔵 31. Qu’est-ce qu’un « media query » ?
+- Les requêtes média (media queries) permettent de modifier l'apparence d'un site ou d'une application en fonction du type d'appareil (impression, écran, ...) et de ses caractéristiques (la résolution d'écran ou la largeur de la zone d'affichage (viewport) par exemple). Les media queries permettent d’appliquer certains styles de manière conditionnelle avec le CSS grâce aux règles @media et @import.
 
 🔴 32. Qu’est-ce qu’un pseudo élément en CSS ?
+- Mot-clé ajouté à un sélecteur qui permet de mettre en forme certaines parties de l'élément ciblé par la règle. Ainsi, le pseudo-élément "::first-line" permettra de ne cibler que la première ligne d'un élément visé par le sélecteur : "p ::first-line { color: blue; text-transform: uppercase; }".
 
 🔵 33. Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
 - C'est une collection d'outils utiles à la création du design de site et d'applications web. Il contient des codes HTML et CSS, des formulaires, boutons... Il existe de nombreux équivalent, notamment :
@@ -152,6 +154,7 @@
 🔵 41. Qu’est-ce que la notion d’affordance en UX Design ?
 
 🔴 42. Qu’est-ce qu’un « mobile first design » ?
+- C'est un concept de web design optimisé pour le mobile qui va au-delà du responsive web design. Il consiste à concevoir un site en mettant la priorité sur la version mobile et en adaptant progressivment le web design pour les écrans plus large.
 
 ## Programmation orientée objet (POO) 🌟
 
@@ -159,8 +162,10 @@
 - C'est un modèle de programmation qui repose sur le concept de classes et d'objets. C'est utilisé pour structurer un programme logiciel en éléments de code simples et réutilisables, généralement appelés classes, qui sont utilisés pour créer des instances individuelles d'objets. 
 
 🔴 44. Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
+- C'est un ensemble de code contenant des variables et des fonctions permettant de créer des objets. Elle peut contenir plusieurs objets. On la déclare avec le mot-clé "class" suivi du nom de la classe et des {} ; on déclare ensuite ses attributs et méthodes.
 
 🔵 45. Qu’est-ce qu’un objet ?
+- On peut prendre une classe concrète au moyen d'uns intance de classe (1 objet) : on instancie la classe. Un objet est un exemple concret de la classe. En PHP, on instancie une classe avec le mot-clé new (puis le nom de la classe derrière, ex : "new Voiture()"), c'est à dire que l'on qu’on crée 1 objet.
 
 🔴 46. Définir la notion de propriété / attribut / méthode
 
