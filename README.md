@@ -85,12 +85,18 @@
 - Le JavaScript est un langage de programmation " orienté objet " de scripts principalement employé dans les pages web interactives.
 
 🔵 21. Définir JSON. Dans quel contexte ce format est-il utilisé ? 
+- JSON : JavaScript Object Notation, est un format de données textuel dérivé de la notation des objets du langage JavaScript. C'est basé sur des paires nom/valeur et des listes ordonnées.
 
 🔴 22. Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
 
 🔵 23. Qu’est-ce qu’un sélecteur CSS ?
+- Les sélecteurs CSS définissent les éléments sur lesquelles s'applique un ensemble de règles CSS, voici les 3 plus utilisés :
+  - Les sélecteurs de types : input {};
+  - Les sélecteurs de classes : .classe {};
+  - Les sélecteurs d'identifiants : #id {} (l'ID est unique).
 
 🔴 24. Quelle balise HTML permet de créer un lien hypertexte ?
+- La balise "<a href=adresse de redirection (entre guillemets)>texte cliquable à afficher</a>"
 
 🔵 25. Qu’est-ce qu’une requête AJAX ?
 
