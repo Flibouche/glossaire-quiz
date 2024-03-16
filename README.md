@@ -134,8 +134,11 @@
 
 ## UX UI 🌟
 🔵 35. Quelle est la différence entre UX Design et UI Design ?
+- L'UX Design : User eXperience Design (UXD) est une méthode de conception centré sur l'utilisateur afin de lui proposer une expérience unique où l'ergonomie et la navigation sont adaptées à une cible définie. Les 3 pilliers de l'UX sont : contenter l'utilisateur, écouter l'entreprise et maîtriser la technologie.
+- L'UI Design : User Interface (UID) est l'étape de conception de l'interface utilisateur : l'expérience utilisateur (UX) est liée au design graphique de l'interface (UI). Le but est de créer une interface agréable et pratique, facile à prendre en main. L'UI s'attaque plus particulièrement aux éléments perceptibles : éléments graphiques, boutons, navigation, typographie...
 
 🔴 36. Qu’est-ce qu’un wireframe ? 
+- C'est une représentation visuelle d'une maquette dite, "fil de fer", en niveau de gris. Elle représente la structure et la fonctionnalité d'une seule page web ou d'un écran d'application mobile.
 
 🔵 37. Qu’est-ce qu’un prototype ? 
 
@@ -151,7 +154,8 @@
 
 IV. Programmation orientée objet (POO)
 
-🔵 43. Donner une définition de la programmation orientée objet 
+🔵 43. Donner une définition de la programmation orientée objet
+- C'est un modèle de programmation qui repose sur le concept de classes et d'objets. C'est utilisé pour structurer un programme logiciel en éléments de code simples et réutilisables, généralement appelés classes, qui sont utilisés pour créer des instances individuelles d'objets. 
 
 🔴 44. Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
 
