@@ -96,27 +96,41 @@
   - Les sélecteurs d'identifiants : #id {} (l'ID est unique).
 
 🔴 24. Quelle balise HTML permet de créer un lien hypertexte ?
-- La balise "<a href=adresse de redirection (entre guillemets)>texte cliquable à afficher</a>"
+- La balise "<a href="> description du lien </ a>.
 
 🔵 25. Qu’est-ce qu’une requête AJAX ?
+- C'est utilisé pour la communication asynchrone : envoyer des requêtes vers le serveur et déclencher des opérations lors de la réception de réponses de celui-ci.
 
 🔴 26. Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
+- C'est le sélecteur de classe : ".nomclasse {}" ; ou le sélecteur d'identifiant : "#valeurid {}".
 
 🔵 27. Définir le responsive design
+- C'est un ensemble de pratique qui permet d'offrir une consultation confortable sur des écrans de tailles très différentes.
 
 🔴 28. Qu’est-ce que le templating ?
+- C'est l'utilisation de modèle ou de patron qui permettent une organisation du code plus ordonnée afin d'être mieux organisé et de gagner en efficience.
 
 🔵 29. Qu’est-ce qu’une fonction anonyme en Javascript ?
 
 🔴 30. Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
+- La classe "Array" fournit les méthodes pour traiter les tableaux et la méthode "push()" permet d'ajouter un élément à la fin d'un tableau.
 
 🔵 31. Qu’est-ce qu’un « media query » ?
 
 🔴 32. Qu’est-ce qu’un pseudo élément en CSS ?
 
 🔵 33. Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+- C'est une collection d'outils utiles à la création du design de site et d'applications web. Il contient des codes HTML et CSS, des formulaires, boutons... Il existe de nombreux équivalent, notamment :
+  - Tailwind CSS,
+  - Bulma,
+  - Materialize,
+  - Foundation by Zurb,
+  - Skeleton...
 
-🔴 34. Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
+🔴 34. Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes.
+- L'attribut "method" définit la méthode HTTP qui sera utilisée pour envoyer les données au serveur, il peut prendre les valeurs suivantes :
+  - post : la méthode POST, utilisée pour envoyer des données au serveur ; les paramètres (données saisies par l'utilisateur) sont passés dans la requête elle-même.
+  - get : la méthode GET, utilisée pour récupérer les données, qui après passent par l'URL.
 
 ## UX UI 🌟
 🔵 35. Quelle est la différence entre UX Design et UI Design ?
