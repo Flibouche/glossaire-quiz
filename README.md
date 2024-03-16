@@ -4,6 +4,7 @@
 - [Front-end](#front-end)
 - [UX / UI](#ux-ui)
 - [Architecture](#architecture)
+- [Programmation Orientée Objet](#programmation-orientée-objet)
 - [Modélisation / Base de données](#modélisation---base-de-données)
 - [Symfony](#symfony)
 - [Sécurité](#sécurité)
@@ -152,7 +153,7 @@
 
 🔴 42. Qu’est-ce qu’un « mobile first design » ?
 
-IV. Programmation orientée objet (POO)
+## Programmation orientée objet (POO) 🌟
 
 🔵 43. Donner une définition de la programmation orientée objet
 - C'est un modèle de programmation qui repose sur le concept de classes et d'objets. C'est utilisé pour structurer un programme logiciel en éléments de code simples et réutilisables, généralement appelés classes, qui sont utilisés pour créer des instances individuelles d'objets. 
