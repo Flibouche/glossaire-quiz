@@ -144,8 +144,10 @@
 - C'est une représentation visuelle d'une maquette dite, "fil de fer", en niveau de gris. Elle représente la structure et la fonctionnalité d'une seule page web ou d'un écran d'application mobile.
 
 🔵 37. Qu’est-ce qu’un prototype ? 
+- Un prototype en UX permet de simuler le fonctionnement de notre dispositif digital afin de le tester, avant de le produire.
 
 🔴 38. Qu’est-ce que la hiérarchie visuelle en UI Design ?
+- C'est un principe de design qui fait référence à la manière dont les éléments sont disposés dans un design afin que le visuel soit assimilé correctement.
 
 🔵 39. Qu’est-ce que l’accessibilité en UX Design ? 
 
@@ -168,18 +170,29 @@
 - On peut prendre une classe concrète au moyen d'uns intance de classe (1 objet) : on instancie la classe. Un objet est un exemple concret de la classe. En PHP, on instancie une classe avec le mot-clé new (puis le nom de la classe derrière, ex : "new Voiture()"), c'est à dire que l'on qu’on crée 1 objet.
 
 🔴 46. Définir la notion de propriété / attribut / méthode
+- Propriété / Attribut : c'est un élément de description d'un objet, les caractéristiques (variables dites définies ou déclarées) d'un objet d'une classe.
+- Méthode : ce sont les fonctions (dites définies ou déclarées) à l'intérieur d'une classe.
 
 🔵 47. Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
+- La visibilité permet de définir comment une propriété ou une méthode pourra être utilisée, les différents types de visibilité sont :
+  - public :  permet d'indiquer que la propriété ou la méthode sera accessible à l'intérieur mais aussi à l'extérieur de la classe,
+  - private : permet d'indiquer que la propriété ou la méthode sera accessible à l'intérieur de la classe seulement,
+  - protected :  permet d'indiquer que la propriété ou la méthode sera accessible à l'intérieur de la classe et des classes héritées.
 
 🔴 48. Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
+- Le constructeur "__construct($valeur1, $valeur2...)" permet de créer une nouvelle instance de classe. On peut y passer des arguments dans la méthode construct.
 
 🔵 49. Qu’est-ce que l’encapsulation ?
+- L'encapsulation consiste à restreindre l'accès à certains éléments d'une classe (le plus souvent ses attributs). Le but est de ne laisser accessible que le strict NÉCESSAIRE pour que la classe soit utilisable. En modifiant la visibilité d'une méthode (public, private, protected), on modifie le niveau d'encapsulation.
 
 🔴 50. Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
+- Cela signifie créer une classe à partir d’une autre existante. C'est le principe de l’héritage. La nouvelle classe va hériter des méthodes et propriétés de la classe qu’elle étend : ex : 1 classe Personnage, 3 classes Guerrier, Archer et Magicien qui l’étendent.
 
 🔵 51. Définir l’opérateur de résolution de portée
+- Paamayim Nekudotayim : l’opérateur de résolution de portée (double deux-points (::) en hébreu) permet d’accéder à une constante, une propriété statique, une méthode d’une classe ou d’une de ses classes parentes.
 
 🔴 52. Définir une méthode / propriété statique
+- Le fait de déclarer des propriétés ou des méthodes comme statiques nous permet d'y accéder sans avoir besoin d'instancier la classe.
 
 🔵 53. Définir le polymorphisme en POO
 
