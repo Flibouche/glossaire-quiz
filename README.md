@@ -296,14 +296,20 @@ h.  Concaténer 2 chaînes de caractères
 
 ## Symfony 🌟
 🔴 84. Qu’est-ce que Symfony ?
+- Symfony est un framework PHP "open source" utilisé par les développeurs poru créer des sites ou applications web complexes, robustes, fiables, évolutifs, maintenables et performants.
 
 🔵 85. Sur quel langage de programmation et design pattern repose Symfony ? 
+- Le langage de programmation sur lequel repose Symfony est le PHP.
+- Le design pattern sur lequel repose Symfony est le modèle de conception MVC (Modèle-Vue-Contrôleur). Les données de l'application (le modèle) sont séparées de l'interface utilisateur (la vue) et de la logique de contrôle (le contrôleur), ce qui permet une meilleure organisation du code et une meilleure maintenabilité de l'application. 
 
 🔴 86. Quelle est la dernière version en date de Symfony ?
+- La dernière version en date de Symfony est là 7.0.5 (Stable Release, 6.4.5 pour la LTS (Long-Term Support)).
 
 🔵 87. Qu’est-ce qu’un bundle ? 
+- Un bundle est une offre groupée, un ensemble de produits vendus ensemble.
 
 🔴 88. Quel est le moteur de template utilisé par défaut dans Symfony ?
+- Le moteur de template par défaut est Twig. c'est un moteur de template flexible, rapide et sécurisé, spécialement conçu pour être utilisé avec PHP. Il est simple à utiliser et a une bonne capacité à séparer efficacement la logique de présentation de la logique métier dans les applications web.
 
 🔵 89. Qu’est-ce qu’un ORM ? Quel est son utilité et comment s’appelle-t-il au sein de Symfony ?
 
