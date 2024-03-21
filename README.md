@@ -344,6 +344,7 @@ h.  Concaténer 2 chaînes de caractères
 
 ## RGPD 🌟
 🔴 104.    Qu’est-ce que le RGPD ?
+- C'est le Règlement Général de la Protection des Données.
 
 🔵 105.    Quel est son objectif principal ?
 
