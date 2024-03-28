@@ -225,24 +225,31 @@
 
 ## Modélisation - Base de données 🌟
 🔵 67. Qu’est-ce que la modélisation de données ? Définir la méthode Merise
+- C'est le processus de création d'une représentation visuelle ou d'un plan qui définit les systèmes de collecte et de gestion de l'information de toute organisation.
+- La méthode Merise est une méthode d'analyse, de conception et de réalisation de systèmes d'informations.
 
 🔴 68. Quelles sont les 3 étapes principales de la méthode Merise ? 
 
 a.  Analyse, conception et réalisation
+- Cette réponse.
 
 b.  Planification, exécution et contrôle
 
 c.  Création, modification et suppression
 
 🔵 69. Qu’est-ce qu’un modèle conceptuel de données (MCD) en Merise ?
+- Le MCD fournit une description graphique pour représenter des modèles de données sous la forme de diagrammes pouvant contenir des entités ou des associations.
 
 🔴 70. Qu’est-ce qu’un modèle logique de données (MLD) en Merise ?
+- C'est une représentation structurée et normalisée des données d'un système d'information, conçue pour être directement implémentable dans une base de données relationnelle.
 
 🔵 71. Donner la définition des mots suivants :
 
 a.  Entité
+- Une entité est un objet ou un concept identifiable qui peut être représenté dans une base de données. Exemple : 'Livre' et 'Auteur'
 
 b.  Relation
+- Une relation c'est une association entre les différentes entités. Elle représente la manière dont les données sont liées les unes aux autres. Exemple : 'Livre' et 'Auteur', un livre est écrit par un auteur. 
 
 c.  Cardinalité
 
@@ -251,14 +258,18 @@ d.  Clé primaire / clé étrangère
 🔴 72. Que devient une relation de type « Many To Many » dans le modèle logique de données ?
 
 🔵 73. Qu’est-ce qu’une base de données ?
+- Une base de données est un outil qui permet de collecter et d'organiser des informations.
 
 🔴 74. Définir les notions suivantes : 
 
 a.  SQL
+- Structured Query Language, c'est un langage informatique normalisé servant à exploiter des bases de données relationnelles.
 
 b.  MySQL
+- MySQL est un système de gestion de bases de données relationnelles.
 
 c.  SGBD (donner 2 exemples de SGBD)
+- Système de gestion de base de données, c'est un logiciel système permettant aux utilisateurs et programmeurs de créer et de gérer des bases de données, exemple : MySQL, Oracle et SQL Server.
 
 🔵 75. Dans une base de données, les données sont stockées dans des ___. Celles-ci sont constituées de lignes appelées ___ et de colonnes appelées ___
 
